@@ -8,7 +8,7 @@
 
 ## ¿Que es SignaMed? 📖
 
-[Un Diccionario accesible en LSE ](https://speechsigns.github.io/SignaMed-Wiki/Un_Diccionario_accesible_en_LSE)
+[Un Diccionario accesible en LSE ](Un_Diccionario_accesible_en_LSE.md)
 
 [Descarga SignaMed para Apple](https://speechsigns.github.io/SignaMed-Wiki/Descarga_SignaMed_para_Apple)
 
