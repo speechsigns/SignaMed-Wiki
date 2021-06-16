@@ -8,17 +8,17 @@
 
 ## ¿Qué es SignaMed? 📖
 
-[Un Diccionario accesible en LSE ](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Un%20Diccionario%20accesible%20en%20LSE%20e4b3c198cb8a46fea4112a5293e7042d.md)
+[Un Diccionario accesible en LSE ](Un Diccionario accesible en LSE.md)
 
-[Descarga SignaMed para Apple](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Descarga%20SignaMed%20para%20Apple%207648c61d1f8b48cc8b92161b275b8898.md)
+[Descarga SignaMed para Apple](Descarga SignaMed para Apple.md)
 
-[Descarga SignaMed para Android](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Descarga%20SignaMed%20para%20Android%2027be41ed72ee4530bffa6f978c644594.md)
+[Descarga SignaMed para Android](Descarga SignaMed para Android.md)
 
-[Accede a SignaMed online](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Accede%20a%20SignaMed%20online%20ca3987a991d2419b8c5d7abd89f90147.md)
+[Accede a SignaMed online](Accede a SignaMed online.md)
 
-[Términos y Condiciones de uso](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Te%CC%81rminos%20y%20Condiciones%20de%20uso%208ecf993372f6455bbbb9a1319c13a27b.md)
+[Términos y Condiciones de uso](Términos y Condiciones de uso.md)
 
-[Política de Privacidad](SignaMed%202d97787d98834edc8c93a63dc3cf6b98/Poli%CC%81tica%20de%20Privacidad%2081409e15a1414ce08b2db6c904f184d9.md)
+[Política de Privacidad](Política de Privacidad.md)
 
 ## ¿Quién está detrás de SignaMed? 🙎‍♀️👨‍🎓👩‍🏫
 
