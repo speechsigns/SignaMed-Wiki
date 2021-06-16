@@ -1,12 +1,12 @@
 # SignaMed
 
-## **Bienvenido a la página de soporte de la aplicación SignaMed.**
+## **Bienvenido a la página de soporte de la aplicacion SignaMed.**
 
-**Si no encuentras aquí lo que quieras saber escríbenos un e-mail a speechsigns@gmail.com**
+**Si no encuentras aqui lo que quieras saber escribenos un e-mail a speechsigns@gmail.com**
 
 ---
 
-## ¿Qué es SignaMed? 📖
+## ¿Que es SignaMed? 📖
 
 [Un Diccionario accesible en LSE ](https://speechsigns.github.io/SignaMed-Wiki/Un_Diccionario_accesible_en_LSE)
 
@@ -16,22 +16,22 @@
 
 [Accede a SignaMed online](https://speechsigns.github.io/SignaMed-Wiki/Accede_a_SignaMed_online)
 
-[Términos y Condiciones de uso](https://speechsigns.github.io/SignaMed-Wiki/Términos_y_Condiciones_de_uso)
+[Términos y Condiciones de uso](https://speechsigns.github.io/SignaMed-Wiki/Terminos_y_Condiciones_de_uso)
 
-[Política de Privacidad](https://speechsigns.github.io/SignaMed-Wiki/Política_de_Privacidad)
+[Política de Privacidad](https://speechsigns.github.io/SignaMed-Wiki/Politica_de_Privacidad)
 
-## ¿Quién está detrás de SignaMed? 🙎‍♀️👨‍🎓👩‍🏫
+## ¿Quien está detrás de SignaMed? 🙎‍♀️👨‍🎓👩‍🏫
 
-[Equipo de Investigación y Desarrollo](https://speechsigns.github.io/SignaMed-Wiki/Equipo_de_Investigación_y_Desarrollo)
+[Equipo de Investigación y Desarrollo](https://speechsigns.github.io/SignaMed-Wiki/Equipo_de_Investigacion_y_Desarrollo)
 
 ## ¿Quieres colaborar para que SignaMed sea más útil? 🛠
 
 ## Preguntas y respuestas frecuentes 🤷‍♂️
 
-[Técnicas](https://speechsigns.github.io/SignaMed-Wiki/Técnicas)
+[Técnicas](https://speechsigns.github.io/SignaMed-Wiki/Tecnicas)
 
 [Funciones](https://speechsigns.github.io/SignaMed-Wiki/Funciones)
 
-[Financiación](https://speechsigns.github.io/SignaMed-Wiki/Financiación)
+[Financiación](https://speechsigns.github.io/SignaMed-Wiki/Financiacion)
 
 ---
