@@ -8,30 +8,30 @@
 
 ## ¿Que es SignaMed? 📖
 
-[Un Diccionario accesible en LSE ](https://speechsigns.github.io/SignaMed-Wiki/Un_Diccionario_accesible_en_LSE)
+[Un Diccionario accesible en LSE ](Un_Diccionario_accesible_en_LSE.md)
 
-[Descarga SignaMed para Apple](https://speechsigns.github.io/SignaMed-Wiki/Descarga_SignaMed_para_Apple)
+[Descarga SignaMed para Apple](Descarga_SignaMed_para_Apple.md)
 
-[Descarga SignaMed para Android](https://speechsigns.github.io/SignaMed-Wiki/Descarga_SignaMed_para_Android)
+[Descarga SignaMed para Android](Descarga_SignaMed_para_Android.md)
 
-[Accede a SignaMed online](https://speechsigns.github.io/SignaMed-Wiki/Accede_a_SignaMed_online)
+[Accede a SignaMed online](Accede_a_SignaMed_online.md)
 
-[Términos y Condiciones de uso](https://speechsigns.github.io/SignaMed-Wiki/Terminos_y_Condiciones_de_uso)
+[Términos y Condiciones de uso](Terminos_y_Condiciones_de_uso.md)
 
-[Política de Privacidad](https://speechsigns.github.io/SignaMed-Wiki/Politica_de_Privacidad)
+[Política de Privacidad](Politica_de_Privacidad.md)
 
 ## ¿Quien está detrás de SignaMed? 🙎‍♀️👨‍🎓👩‍🏫
 
-[Equipo de Investigación y Desarrollo](https://speechsigns.github.io/SignaMed-Wiki/Equipo_de_Investigacion_y_Desarrollo)
+[Equipo de Investigación y Desarrollo](Equipo_de_Investigacion_y_Desarrollo.md)
 
 ## ¿Quieres colaborar para que SignaMed sea más útil? 🛠
 
 ## Preguntas y respuestas frecuentes 🤷‍♂️
 
-[Técnicas](https://speechsigns.github.io/SignaMed-Wiki/Tecnicas)
+[Técnicas](Tecnicas.md)
 
-[Funciones](https://speechsigns.github.io/SignaMed-Wiki/Funciones)
+[Funciones](Funciones.md)
 
-[Financiación](https://speechsigns.github.io/SignaMed-Wiki/Financiacion)
+[Financiación](Financiacion.md)
 
 ---
